@@ -18,10 +18,10 @@ export default function Profile() {
                 data-aos-duration="1000">
                     <div className='grid grid-cols-2 lg:grid-cols-4 gap-4 text-center'>
                         <div className='w-[80%] mx-auto my-auto'>
+                            <a href='https://www.w3schools.com/html/' target='_' rel="noreferrer">
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/7.png' alt=''/>
                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
-                                        <a href='https://www.w3schools.com/html/' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -32,15 +32,16 @@ export default function Profile() {
                                         HTML is the standard markup language for Web pages
                                         </p>
                                     </div>
-                                        </a>
                                 </div>
                             </div>
+                            </a>
                         </div>
                         <div className='w-[80%] mx-auto my-auto'>
+                            <a href='https://www.w3schools.com/css/' target='_' rel="noreferrer">
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/8.png' alt=''/>
                                 <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
-                                    <a href='https://www.w3schools.com/css/' target='_' rel="noreferrer">
+                                    
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -51,15 +52,15 @@ export default function Profile() {
                                         CSS is the language we use to style an HTML document
                                         </p>
                                     </div>
-                                        </a>
                                 </div>
                             </div>
+                            </a>
                         </div>
                         <div className='w-[80%] mx-auto my-auto'>
+                            <a href='https://www.w3schools.com/REACT/DEFAULT.ASP' target='_' rel="noreferrer">
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/9.png' alt=''/>
                                 <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
-                                    <a href='https://www.w3schools.com/REACT/DEFAULT.ASP' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -70,16 +71,15 @@ export default function Profile() {
                                         React is a JavaScript library for building user interfaces
                                         </p>
                                     </div>
-                                    </a>
                                 </div>
                             </div>
+                            </a>
                         </div>
                         <div className='w-[80%] mx-auto my-auto'>
+                            <a href='https://www.w3schools.com/mysql/default.asp' target='_' rel="noreferrer">
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/13.png' alt=''/>
                                 <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
-                                    <a href='https://www.w3schools.com/mysql/default.asp' target='_' rel="noreferrer">
-
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -90,15 +90,15 @@ export default function Profile() {
                                         MySQL is a widely used relational database management system (RDBMS)
                                         </p>
                                     </div>
-                                    </a>
                                 </div>
                             </div>
+                          </a>
                         </div>
                         <div className='w-[80%] mx-auto my-auto'>
+                            <a href='https://flutter.dev/' target='_' rel="noreferrer">
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/5.png' alt=''/>
                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
-                                    <a href='https://flutter.dev/' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -109,15 +109,15 @@ export default function Profile() {
                                         Flutter is an open source framework for building beautiful, natively compiled, multi-platform applications
                                         </p>
                                     </div>
-                                    </a>
                                 </div>
                             </div>
+                            </a>
                         </div>
                         <div className='w-[80%] mx-auto my-auto'>
+                            <a href='https://www.w3schools.com/mongodb/' target='_' rel="noreferrer">
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/14.png' alt=''/>
                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
-                                    <a href='https://www.w3schools.com/mongodb/' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -128,15 +128,15 @@ export default function Profile() {
                                         MongoDB is a document database. It stores data in a type of JSON format called BSON
                                         </p>
                                     </div>
-                                    </a>
                                 </div>
                             </div>
+                            </a>
                         </div>
                         <div className='w-[80%] mx-auto my-auto'>
+                            <a href='https://www.figma.com/' target='_' rel="noreferrer">
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/11.png' alt=''/>
                                 <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
-                                    <a href='https://www.figma.com/' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -147,15 +147,15 @@ export default function Profile() {
                                         Figma helps design and development teams build great products, together
                                         </p>
                                     </div>
-                                        </a>
                                 </div>
                             </div>
+                            </a>
                         </div>
                         <div className='w-[80%] mx-auto my-auto'>
+                            <a href='https://www.w3schools.com/jquery/default.asp' target='_' rel="noreferrer">
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/1.png' alt=''/>
                                 <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
-                                    <a href='https://www.w3schools.com/jquery/default.asp' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -166,9 +166,9 @@ export default function Profile() {
                                         jQuery is a JavaScript Library
                                         </p>
                                     </div>
-                                    </a>
                                 </div>
                             </div>
+                            </a>
                         </div>
                     </div>
                 </div>
