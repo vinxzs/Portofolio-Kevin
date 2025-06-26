@@ -44,7 +44,10 @@ export default function Banner() {
         data-aos-delay="0"
         >
           <hr className="my-3 border-black w-2/3 mx-auto"/>
-            <p className='col-end-10'>Mahasiswa jurusan <span className='text-red-600 font-bold'>Sistem Informasi </span>yang bekerja keras, selalu optimis, disiplin, dan senang bersosialisasi. Memiliki kepribadian yang bisa berdaptasi dan tidak pernah berhenti belajar. Selalu mencari solusi dalam suatu masalah dan dapat bekerja sama dengan tim maupun individual.
+            <p className='col-end-10'>A student majoring in <span className='text-red-600 font-bold'>information systems</span> who has a hard-working, meticulous, disciplined, and optimistic
+individual character in doing something that can also adapt to a dynamic environment. Always trying to find
+solutions to every problem. Has extensive knowledge in working together to manage projects with various groups
+from different backgrounds
             </p>
             <hr className="my-3 border-black w-2/3 mx-auto"/>
             
