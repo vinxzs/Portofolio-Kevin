@@ -26,13 +26,13 @@ export default function Header() {
           <div className="font-bold font-primary text-gradient ">
             Let's Connect
           </div>
-          <a href='https://github.com/vinxzs' target="_blank">
+          <a href='https://github.com/vinxzs' target="_blank" rel="noreferrer">
             <BsGithub size={24}/>
           </a>
-          <a href='https://www.linkedin.com/in/kevin-oktavian7/' target="_blank">
+          <a href='https://www.linkedin.com/in/kevin-oktavian7/' target="_blank" rel="noreferrer">
             <BsLinkedin size={24}/>
           </a>
-          <a href='https://www.instagram.com/kvnokt_?igsh=eXdlNDFldmR3Ympk' target="_blank">
+          <a href='https://www.instagram.com/kvnokt_?igsh=eXdlNDFldmR3Ympk' target="_blank" rel="noreferrer">
             <BsInstagram size={24}/>
           </a>
         </div>
