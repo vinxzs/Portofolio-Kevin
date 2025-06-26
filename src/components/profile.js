@@ -20,8 +20,8 @@ export default function Profile() {
                         <div className='w-[80%] mx-auto my-auto'>
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/7.png' alt=''/>
-                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                                        <a href='https://www.w3schools.com/html/' target='_'>
+                               <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
+                                        <a href='https://www.w3schools.com/html/' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -39,8 +39,8 @@ export default function Profile() {
                         <div className='w-[80%] mx-auto my-auto'>
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/8.png' alt=''/>
-                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                                    <a href='https://www.w3schools.com/css/' target='_'>
+                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
+                                    <a href='https://www.w3schools.com/css/' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -58,8 +58,8 @@ export default function Profile() {
                         <div className='w-[80%] mx-auto my-auto'>
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/9.png' alt=''/>
-                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                                    <a href='https://www.w3schools.com/REACT/DEFAULT.ASP' target='_'>
+                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
+                                    <a href='https://www.w3schools.com/REACT/DEFAULT.ASP' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -77,8 +77,8 @@ export default function Profile() {
                         <div className='w-[80%] mx-auto my-auto'>
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/13.png' alt=''/>
-                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                                    <a href='https://www.w3schools.com/mysql/default.asp' target='_'>
+                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
+                                    <a href='https://www.w3schools.com/mysql/default.asp' target='_' rel="noreferrer">
 
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
@@ -97,8 +97,8 @@ export default function Profile() {
                         <div className='w-[80%] mx-auto my-auto'>
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/5.png' alt=''/>
-                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                                    <a href='https://flutter.dev/' target='_'>
+                               <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
+                                    <a href='https://flutter.dev/' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -116,8 +116,8 @@ export default function Profile() {
                         <div className='w-[80%] mx-auto my-auto'>
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/14.png' alt=''/>
-                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                                    <a href='https://www.w3schools.com/mongodb/' target='_'>
+                               <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
+                                    <a href='https://www.w3schools.com/mongodb/' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -135,8 +135,8 @@ export default function Profile() {
                         <div className='w-[80%] mx-auto my-auto'>
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/11.png' alt=''/>
-                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                                    <a href='https://www.figma.com/' target='_'>
+                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
+                                    <a href='https://www.figma.com/' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
@@ -154,8 +154,8 @@ export default function Profile() {
                         <div className='w-[80%] mx-auto my-auto'>
                             <div className=' bg-white h-[80%] justify-center items-center flex rounded-lg overflow-hidden relative p-10 group'>
                                 <img src='/images/1.png' alt=''/>
-                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 group-hover:scale-100 group-hover:opacity-100 transition ease-linear'>
-                                    <a href='https://www.w3schools.com/jquery/default.asp' target='_'>
+                                <div className='absolute p-5 backdrop-blur-xl bg-primary w-full h-full flex items-center opacity-0 scale-0 transition ease-linear lg:group-hover:scale-100 lg:group-hover:opacity-100'>
+                                    <a href='https://www.w3schools.com/jquery/default.asp' target='_' rel="noreferrer">
                                     <div className='text-center w-full text-white'>
                                         <div className='bg-white rounded-full px-5 py-2 inline-block mb-2'>
                                             <h4 className='text-gradient'>
