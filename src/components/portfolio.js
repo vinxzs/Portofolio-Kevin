@@ -30,22 +30,22 @@ export default function Portfolio() {
         data-aos-duration="1000">
           <div className='w-full'>
             <div className='bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5  relative group'>
-                <img src='/images/port1.png' alt=''/>
+                <img src='/images/port1.png' alt='' className='lg:transition-transform duration-300 group-hover:scale-110'/>
               </div>
           </div>
           <div className='w-full'>
             <div className='bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5  relative group'>
-                <img src='/images/port2.png' alt=''/>
+                <img src='/images/port2.png' alt='' className='lg:transition-transform duration-300 group-hover:scale-110'/>
               </div>
           </div>
           <div className='w-full'>
             <div className='bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5  relative group'>
-                <img src='/images/15.jpeg' alt=''/>
+                <img src='/images/15.jpeg' alt='' className='lg:transition-transform duration-300 group-hover:scale-110'/>
               </div>
           </div>
           <div className='w-full'>
             <div className='bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5  relative group'>
-                <img src='/images/16.jpeg' alt=''/>
+                <img src='/images/16.jpeg' alt='' className='lg:transition-transform duration-300 group-hover:scale-110'/>
               </div>
           </div>
         </div>
