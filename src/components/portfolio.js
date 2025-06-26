@@ -3,7 +3,7 @@ import React from 'react'
 export default function Portfolio() {
   return (
     <div id='portfolio' className='section'>
-      <div className='container mx-auto max-w-[1200px] px-3 pt-3 pb-20'>
+      <div className='container mx-auto max-w-[1200px] px-3'>
         <div className='flex flex-col lg:align-middle lg:flex-row justify-between mb-[50px]'
         data-aos="fade-up"
         data-aos-easing="ease-in-sine"

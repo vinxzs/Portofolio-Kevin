@@ -3,7 +3,7 @@ import React from 'react'
 export default function Profile() {
   return (
     <div id='profile' className='section'>
-        <div className='container mx-auto max-w-[1200px] px-3  overflow-hidden'>
+        <div className='container mx-auto max-w-[1200px] px-3'>
             <div className='font-secondary text-center font-bold mb-12' 
             data-aos="zoom-in-up"
             data-aos-easing="ease-in-sine"
